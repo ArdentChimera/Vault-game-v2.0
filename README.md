@@ -13,7 +13,7 @@ This project is an interactive game built with PIXI.js and GSAP, scaffolded usin
 
 ### Clone the repository:
 
-    git clone https://github.com/ArdentChimera/vault-game.git
+    git clone https://github.com/ArdentChimera/Vault-game-v2.0.git
 
     cd vault-game
 
